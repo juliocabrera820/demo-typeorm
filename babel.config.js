@@ -5,6 +5,7 @@ module.exports = {
     alias: {
       '@controllers': './src/app/controllers',
       '@models': './src/app/models',
+      '@validators': './src/app/validators'
     }
   }]],
   ignore: ['**/*.spec.ts']
